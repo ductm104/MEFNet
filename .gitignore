@@ -1,0 +1,8 @@
+**.pyc
+**.swp
+__pycache__/
+.idea/
+images/
+notes/
+fused_results/
+weighting_maps/
